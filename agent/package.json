@@ -34,7 +34,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "amazon-chime-sdk-js": "^1.2.1",
+    "amazon-chime-sdk-js": "^3.5.0",
     "amazon-connect-chatjs": "^1.0.6",
     "amazon-connect-streams": "^1.4.7",
     "aws-api-gateway-client": "^0.3.3"
